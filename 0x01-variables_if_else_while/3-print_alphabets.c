@@ -11,8 +11,6 @@ int main(void)
 	int ch = 'a';
 	int CH = 'A';
 
-
-	
 	while (ch <= 'z')
 
 	{
@@ -32,8 +30,6 @@ int main(void)
 		CH++;
 
 	}
-
-
 	
 	putchar('\n');
 
