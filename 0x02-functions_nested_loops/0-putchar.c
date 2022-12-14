@@ -1,11 +1,12 @@
 #include "main.h"
+
 /**
  * main - Entry point
  * Description: A function that prints _putchar
  * Return: Allow success
  */
 int main(void)
-{	
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -15,5 +16,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return (0);
 }
