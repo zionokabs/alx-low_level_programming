@@ -9,6 +9,7 @@
  *
  * Return: a pointer to the byte
  */
+
 char *_strpbrk(char *s, char *accept)
 {
 	int i;
