@@ -20,3 +20,4 @@ int factorial(int n)
 	result *= factorial(n - 1);
 
 	return (result);
+}
